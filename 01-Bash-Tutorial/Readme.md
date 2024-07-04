@@ -1,8 +1,8 @@
-
-
 # 100 Bash Scripts Collection
 
-This document contains a collection of 100 Bash scripts covering various topics and functionalities. Each script is designed to demonstrate different aspects of Bash scripting, from basic concepts to more advanced usage scenarios.
+This document contains a collection of 100 Bash scripts covering various topics and functionalities. 
+Each script is designed to demonstrate different aspects of Bash scripting, from basic concepts 
+to more advanced usage scenarios.
 
 ## Table of Contents
 
@@ -75,10 +75,13 @@ This document contains a collection of 100 Bash scripts covering various topics 
 
 ## Conclusion
 
-This collection of 100 Bash scripts serves as a comprehensive guide and reference for learning and mastering Bash scripting. Each script demonstrates fundamental concepts, best practices, and practical examples that can be used in various scripting and automation tasks.
+This collection of 100 Bash scripts serves as a comprehensive guide and reference for learning
+and mastering Bash scripting. Each script demonstrates fundamental concepts, best practices,
+and practical examples that can be used in various scripting and automation tasks.
 
-Feel free to explore and use these scripts to deepen your understanding of Bash scripting and to develop your own scripts for specific tasks and projects.
-```
+Feel free to explore and use these scripts to deepen your understanding of Bash scripting and
+to develop your own scripts for specific tasks and projects.
+
 
 ### Explanation:
 
